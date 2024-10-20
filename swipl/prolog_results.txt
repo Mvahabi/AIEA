@@ -1,0 +1,14 @@
+Query: likes(sam, dahl) -> true
+Query: likes(sam, chop_suey) -> false
+Query: likes(sam, pizza) -> true
+Query: likes(sam, chips) -> true
+Query: likes(sam, curry) -> false
+Query: likes(sam, chow_mein) -> false
+Query: likes(sam, sweet_and_sour) -> true
+Sam likes dahl.
+Sam likes tandoori.
+Sam likes kurma.
+Sam likes sweet_and_sour.
+Sam likes pizza.
+Sam likes spaghetti.
+Sam likes chips.
